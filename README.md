@@ -1,13 +1,13 @@
-# tableau_challenge
+# Module 18 - Tableau Challenge
 Given Below the link to my tableau public workbook
 
 https://public.tableau.com/views/Module18Challenge_16885645285930/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link
 
 My Story has 4 slides
-  1.Introduction
-  2. Peak Hours
-  3. Start Station
-  4. User Type
+  1.Introduction.
+  2. Peak Hours.
+  3. Start Station.
+  4. User Type.
 I have derived few chats and map to showcase some of the interesting phenomena. Following are the analysis made from the charts and map
 
 ## Peak Hours
