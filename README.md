@@ -12,7 +12,7 @@ I have derived few chats and map to showcase some of the interesting phenomena. 
 
 ## Peak Hours
 
-### Ride Count by Hour of the day
+### 1.Ride Count by Hour of the day
 
 X-axis - Hour of the day
 Y-axis - Count of rides
@@ -25,7 +25,7 @@ Based on user type
 It is evident that casual users prefer to book rides in the evenings while members are more keen on using it around mornings and evenings. Member users may be a mix of school, college and office goers as it makes sense for them to become a member for their daily usage. Since both user types book rides in the evening, there seems to be a peak around the 3pm to 7pm timeframe.
 
 
-### Peak Hours in Spring by Days of the week.
+### 2.Peak Hours in Spring by Days of the week.
 The parameters used are:
  Y-axis - Ride Count 
  X-axis - Hour of the day 
