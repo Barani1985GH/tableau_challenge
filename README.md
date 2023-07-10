@@ -62,8 +62,14 @@ Example: Size of Liberty Light Rail marking is larger than size of Union St mark
 Ride counts for members vs casuals
 This shows the data for 3 months separately. For all 3 months, the total number of rides is greater by members compared to casual users. As the months progress, the number of rides from member users and casual users increase steadily. 
 
-### 1.Ride IDs vs Ride Duration
-This shows the duration of each ride ID in the system. Provided we know that member users count for more ride duration compared to casual users. 
+### 1.User Type vs Ride Duration
+From the chart, it is evident that casual riders books for similar time duration like member users. To find the more about the path the both type of users we can dig deep into location co-ordinates and produce a visualization.
+
+An interactive filter available for this visualisation is user type: member, casual.
+
+### 1.User Type vs Ride Distance
+From the chart we can see member user type rides more distance than casual riders. Members are regular users than the casual riders. Where as ride duration are quite similar between member and casual user types. Office, college/schol goers are more likely comes under member user types. If provided more details on the user's demographic information, we can segment much deeper and identity the purpose of the ride.
+With information about the user id, we will be able to further slice and dice this information on multiple levels. An interesting use case this can open up to is- top member users and top casual users. Using this list, a dedicated marketing campaign can be carried out to provide discounts to the loyal customers in the system.
 
 An interactive filter available for this visualisation is user type: member, casual.
 
