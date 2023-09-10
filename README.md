@@ -1,4 +1,12 @@
-# Module 18 - Tableau Challenge
+# Tableau Challenge
+
+The objecive of this tableau project is to oversee the largest bike-sharing program in the United States. THe objective is to generate regular reports for city officials looking to publicise and improve the city program.
+
+Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilisation. Each month, bike data is collected, organised, and made public on the Citi Bike DataLinks to an external site. webpage.
+
+However, while the data has been regularly updated, I have implemented a dashboard to visuavlize the discovered phenomenon such as ride counts duirng peak hours, how the spring season impacts ride counts, top ride start stations etc.
+
+
 Given Below the link to my tableau public workbook
 
 https://public.tableau.com/views/Module18Challenge_16885645285930/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
